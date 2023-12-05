@@ -21,7 +21,7 @@ https://leetcode.cn/problems/minimum-window-substring/description/
 输出："a"
 解释：整个字符串 s 是最小覆盖子串。
 
-示例 3:
+示例 3：
 输入: s = "a", t = "aa"
 输出: ""
 解释: t 中两个字符 'a' 均应包含在 s 的子串中，
